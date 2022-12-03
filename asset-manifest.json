@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://doquangthanhpro.github.io/csb-z7lyfn/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://doquangthanhpro.github.io/csb-z7lyfn/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://doquangthanhpro.github.io/csb-z7lyfn/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://doquangthanhpro.github.io/csb-z7lyfn/static/js/runtime-main.06cee1f9.js",
+    "runtime-main.js.map": "https://doquangthanhpro.github.io/csb-z7lyfn/static/js/runtime-main.06cee1f9.js.map",
+    "static/js/2.0fd3f829.chunk.js": "https://doquangthanhpro.github.io/csb-z7lyfn/static/js/2.0fd3f829.chunk.js",
+    "static/js/2.0fd3f829.chunk.js.map": "https://doquangthanhpro.github.io/csb-z7lyfn/static/js/2.0fd3f829.chunk.js.map",
+    "index.html": "https://doquangthanhpro.github.io/csb-z7lyfn/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://doquangthanhpro.github.io/csb-z7lyfn/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0fd3f829.chunk.js.LICENSE.txt": "https://doquangthanhpro.github.io/csb-z7lyfn/static/js/2.0fd3f829.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06cee1f9.js",
+    "static/js/2.0fd3f829.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
